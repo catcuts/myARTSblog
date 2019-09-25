@@ -29,6 +29,9 @@ ARTS 是本前端开发组的的一项特色建设，
 [ARTS 第十三周（2019.6.24~2019.6.30）](https://github.com/catcuts/MyARTS/issues/13)
 
 ## ARTS 评星标准
+
+满星 ★★★★★
+
 1. 有按时打卡即获 1 颗 ☆
 
 2. 解决 1 个 Leetcode 算法题：  
